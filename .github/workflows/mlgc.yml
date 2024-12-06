@@ -42,7 +42,7 @@ jobs:
           echo "PROJECT_ID=${{ secrets.PROJECT_ID }}" >> .env
           echo "REGION=${{ secrets.REGION }}" >> .env
           echo "GCP_SECRET_SA=${{ secrets.GCP_SECRET_SA }}" >> .env
-	        echo "MODEL_URL=${{ secrets.MODEL_URL }}" >> .env
+          echo MODEL_URL=${{ secrets.MODEL_URL }} >> .env
         env:
           GCP_PROJECT: ${{ secrets.PROJECT_ID }}
           GCP_REGION: ${{ secrets.REGION }}
@@ -72,6 +72,6 @@ jobs:
               --image=gcr.io/${{ secrets.PROJECT_ID }}/${{ secrets.IMAGE_NAME }}:${{ secrets.TAG_LATEST }} \
               --allow-unauthenticated \
               --port=${{ secrets.PORT }} \
-              --service-account=609610394608-compute@developer.gserviceaccount.com \
+              --service-account=64190155790-compute@developer.gserviceaccount.com \
               --region=${{ secrets.REGION }} \
               --project=${{ secrets.PROJECT_ID }}
