@@ -42,7 +42,7 @@ jobs:
           echo "PROJECT_ID=${{ secrets.PROJECT_ID }}" >> .env
           echo "REGION=${{ secrets.REGION }}" >> .env
           echo "GOOGLE_CREDENTIALS=${{ secrets.GOOGLE_CREDENTIALS }}" >> .env
-	  echo MODEL_URL=${{ secrets.MODEL_URL }} >> .env
+	  echo "MODEL_URL=${{ secrets.MODEL_URL }}" >> .env
    
         env:
           GCP_PROJECT: ${{ secrets.PROJECT_ID }}
