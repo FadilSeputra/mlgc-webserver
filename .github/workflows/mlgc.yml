@@ -47,7 +47,7 @@ jobs:
           GCP_PROJECT: ${{ secrets.PROJECT_ID }}
           GCP_REGION: ${{ secrets.REGION }}
           GCP_SECRET_KEY: ${{ secrets.GOOGLE_CREDENTIALS }}
-	  GCP_MODEL_URL: ${{ secrets.MODEL_URL }} 
+	  GCP_SECRET_KEY: ${{ secrets.GCP_SECRET_SA }} 
 
       # 5. Build and Push Docker Image
       - name: Build and Push Docker Image
