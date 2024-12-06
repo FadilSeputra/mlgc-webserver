@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-nendaalfadilsep",
+  "private_key_id": "22490b4daa74b4888f0ffdcc048f0a36be643e18",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC14UJuFbH/tvTN\nMRpWcHrcWl6IEbzaWDS3CRZuFTNAIXZkwID5rsFAYa+r+8KuA/L3nVgWuNwimQkh\nbs9Cy6OQzqNEXylweeagNRURV7zCCwtd0R7s4HZvMzvdOqGoaKolcHMXi+T/q/Gd\nyarTHIOutOO17nSjIufzzUMch2IKG8N1zmkXxLhFt2uGIz6oSmKFsMh70SvSQbhv\nxABh9pHo0ZfYdBdB/ekWn21T9RacTA1TPu1b4lFwSij5/442gCBZHSPvQpcnW0e1\nyOSHImCtajbG/I/CIwBndcbQbHhZHg6hCnCxlyeTYPSYjZclD1e48VtC9Ji2HndO\n/24zfSBxAgMBAAECggEAAJM4G4I3nh+hL72ZqFPJ2WZAyvXehxVXGM7MjFA1t3LN\nYGwAncl8zCfsp5ODQMPdCkhu53pxzrLkpzFzziO9eiKbChJNvT03hQbaz1QvQTaB\n/N3dXHjP05NmrX2GZz2nN+WFeQfCumIi+CI6q29X6B2YZB1k0H7jJm4bSHooPPB1\n54MRxYnW4n7bv98vGANQ1OdkaWBbw1e1YYtGEX/Po+2hComr0/Dfk8dyIln7a4a9\noM9X8sZzBFjNCb4dmwQcc6phidsciHx1F5B3THJ7khSoja5Ivtzz1+liqhH5BLXQ\n0BNBZPzLb4LRQmiMouK0c+45Qv6y3nGVj7VzVxAIgQKBgQDoxgYFJ0VRnBKaWmhk\nEpIav7+9DkZTa+BGsJF9NxokUZlZMp7UD1FlKyOIg+VwgLaMlMkzGCyBBWwlJS3g\n7GyXkOszvHoYk2X8U6jYJ780yoHgX7E5JUrFXRKI6TrGkT5B1qeWefMoifNbxfMf\npamzcoTLSXg2z4mxdY5B7IbCmQKBgQDIBzUh+tyOGsKYFYVX+mkjFXvTzDOaWpJl\nkGjP/XXuSeo8ggn8xmFERMgPSDyDepD2EqoTLN/At12llyB5gfdmrlmz9gkdbGH+\nwrYiBOGXejR45f2ttzcTaAzpEDJIhHQaKnMVpaCuMicjt1aSMXduvjq/PcBWZCQu\ntnWtoXBLmQKBgBbYWH7o+8SmrKy5csVfjTdS2l6TqBNH4xsM+TpwzgACgipe7Xei\niTqEoVgkmcAQ4dmqQJTjKnr/LT34CCirC31Um8DYHqOK09eP3mJYhEuKFHUQ7zPM\nlSoJmGgXe81BM/sCNjBuh47S+y9mnhXdDGqwMphA/atjcwAXqX6O2CsBAoGAE9tz\nUN5AivLpIoPwat13Fn6JfmslLEuVgPOnFA7LaE56LGuUZj2jZk2Vtr6rEzpVrbgI\nnkK0K8OITmoEVUurrcvdJ9pi6ULbL5lQz2vAoXMGRoI+fsJTe1+2+GQdOcm8ZOSV\n7C43F1PvQsJum7DBdIL5/gY5U9o5JVIDuKrwJPECgYEA5T1hMmcSilGrO9KI/0H6\nzlmcjU3e2QYwD6fY5ZbhsJhk6pjW7FRfvWEqrEYIF7gULdgTKUlb1/WhlDYEc3Gh\njxLnZ1OgGUHkGGMA12flTPeVDYtv5NSNdGsbMBHkNEUOo5scxF+FjH7szW58H23c\n0eZxuk2OGlXGuonLiYD0v6Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mlgc-firestore-nenda@submissionmlgc-nendaalfadilsep.iam.gserviceaccount.com",
+  "client_id": "118138469944764454438",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mlgc-firestore-nenda%40submissionmlgc-nendaalfadilsep.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
