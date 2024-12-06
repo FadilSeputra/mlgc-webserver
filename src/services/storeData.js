@@ -1,7 +1,7 @@
 const { Firestore } = require('@google-cloud/firestore');
 require('dotenv').config();
 
-const credentials = JSON.parse(process.env.GOOGLE_CREDENTIALS);
+const credentials = JSON.parse(process.env.GCP_SECRET_SA);
      
 async function storeData(id, data) {
 
